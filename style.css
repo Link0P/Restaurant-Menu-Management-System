@@ -1,4 +1,8 @@
 body{
-    background-color: gray;
-    border: 1px solid teal;
+    background-color: black;
+    border: 5px solid teal;
+    color: teal;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
